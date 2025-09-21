@@ -12,7 +12,9 @@ Enzo Vinicios - RM558225
 
 Demonstrar, em um único programa, o uso integrado de Fila (FIFO), Pilha (LIFO), Busca Sequencial, Busca Binária, Merge Sort e Quick Sort para processar o consumo de insumos em unidades de diagnóstico.
 
-⚙️ Funcionalidades
+# ⚙️ Funcionalidades
+
+
 1️⃣ Fila – FIFO
 
 Uso: Registra os consumos na ordem cronológica em que ocorreram.
